@@ -1,0 +1,12 @@
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\bin\Debug\net6.0\Tasks.Common.deps.json
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\bin\Debug\net6.0\Tasks.Common.dll
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\bin\Debug\net6.0\Tasks.Common.pdb
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.csproj.AssemblyReference.cache
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.AssemblyInfoInputs.cache
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.AssemblyInfo.cs
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.csproj.CoreCompileInputs.cache
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.dll
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\refint\Tasks.Common.dll
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\Tasks.Common.pdb
+C:\Users\oswal\OneDrive\Documentos\GitHub\tasks\Tasks\Tasks.Common\obj\Debug\net6.0\ref\Tasks.Common.dll
